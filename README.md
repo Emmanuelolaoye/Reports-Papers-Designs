@@ -8,7 +8,7 @@ Welcome to my repository! This space is dedicated to showcasing some of my most 
 
 ---
 
-**[Real-Time Text Sentiment Analysis and Speech Emotion Recognition for Financial Markets](link)**
+**[Real-Time Text Sentiment Analysis and Speech Emotion Recognition for Financial Markets](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/blob/main/MSc%20Thesis.pdf)**
 
 **Grade:** - not yet given submitted (27-Aug)
 
@@ -16,7 +16,7 @@ This Master's thesis by explores the creation of a cutting-edge trading system t
 
 ---
 
-**[Pathfinding Visualizer: Navigating Complex Terrains with Computer Vision](link)**
+**CE301 Capstone Project: [Visual Path-finding Visualiser]([link](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=CE301-,Capstone,-Project%20%2D%20Final%20Report))**
 
 **Grade:** - 74%
 
@@ -25,24 +25,24 @@ This report was written as part of my Final Year Capstone Project, titled "The P
 --- 
 
 
-**[Exploration of the London Electronic Order Book's Market Microstructure](link)**
+**EC911 Term Paper: [Exploration of the London Electronic Order Book's Market Microstructure](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=EC911-,Term,-Paper.docx)**
 
 **Grade:** - 78%
 
-This term paper investigates the London Electronic Order Book to understand how technological advancements have reshaped market microstructures. The study focuses on elements like limit orders, trading rules, and the impact of high-frequency trading strategies. Utilizing advanced analytical methods like the Malik-Markose method, the paper evaluates demand and supply dynamics, providing insights into how order books influence price trends. Despite facing challenges with real-time trading data, the research effectively demonstrates significant developments in financial market operations, underscoring the role of algorithmic trading in modern financial ecosystems. This work not only advances the understanding of market behaviors but also opens up discussions for future enhancements in trading technologies.
+This term paper investigates the London Electronic Order Book to understand how technological advancements have reshaped market microstructures. The study focuses on elements like limit orders, trading rules, and the impact of high-frequency trading strategies. Utilizing advanced analytical methods like the Malik-Markose method, the paper evaluates demand and supply dynamics, providing insights into how order books influence price trends. Despite facing challenges with real-time trading data, the research effectively demonstrates significant developments in financial market operations, underscoring the role of algorithmic trading in modern financial ecosystems. This work not only advances the understanding of market behaviours but also opens up discussions for future enhancements in trading technologies.
 
 
 ---
 
-**[Rationale and Impact of M&As in the UK Banking Sector & the Interplay Between EU Banking Competition](link)**
+**BE650 Assignment: [Rationale and Impact of M&As in the UK Banking Sector & the Interplay Between EU Banking Competition](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=EC911-,Term,-Paper.docx))**
 
 **Grade:** - 81%
 
-This paper comprises two essays analyzing the UK and French banking sectors. The first essay explores the determinants of mergers and acquisitions within the UK banking sector, highlighting the rise of digital-first neo banks and their impact on traditional banking models. It details how traditional banks have strategically responded to these digital challengers by leveraging innovative technologies to maintain competitive advantage, although the financial outcomes remain mixed. The second essay investigates the interplay between competition and performance in the French banking sector over the past decade. By utilizing the Learner Index and Return on Assets (ROA) as metrics, it demonstrates how varying levels of competition correlate with shifts in bank profitability, offering insights into the strategic positioning necessary for enhanced market stability and growth.
+This paper comprises two essays analyzing the UK and French banking sectors. The first essay explores the determinants of mergers and acquisitions within the UK banking sector, highlighting the rise of digital-first neo-banks and their impact on traditional banking models. It details how traditional banks have strategically responded to these digital challengers by leveraging innovative technologies to maintain competitive advantage, although the financial outcomes remain mixed. The second essay investigates the interplay between competition and performance in the French banking sector over the past decade. By utilizing the Learner Index and Return on Assets (ROA) as metrics, it demonstrates how varying levels of competition correlate with shifts in bank profitability, offering insights into the strategic positioning necessary for enhanced market stability and growth.
 
 ---
 
-**[High-Frequency Trading: The Impact of Big Data and AI on Financial Markets](link)**
+**BE367 Assignment: [High-Frequency Trading: The Impact of Big Data and AI on Financial Markets](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=Data%20in%20Finance.-,pdf,-BE650%202000%20word)**
 
 **Grade:** - 79%
 
@@ -50,7 +50,7 @@ This essay explores the profound transformation of financial markets through Hig
 
 --- 
 
-**Misc - [Chikara no Chikara: Mystical Battle Royale](link)**
+**Misc - [Chikara no Chikara: Mystical Battle Royale](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=Game%20Design%20Report.-,docx,-LICENSE)**
 
 **Grade:** - 65%
 
