@@ -8,7 +8,7 @@ Welcome to my repository! This space is dedicated to showcasing some of my most 
 
 ---
 
-**[Real-Time Text Sentiment Analysis and Speech Emotion Recognition for Financial Markets](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/blob/main/MSc%20Thesis.pdf)**
+**MSc Thesis: [Real-Time Text Sentiment Analysis and Speech Emotion Recognition for Financial Markets](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/blob/main/MSc%20Thesis.pdf)**
 
 **Grade:** - not yet given submitted (27-Aug)
 
@@ -50,7 +50,7 @@ This essay explores the profound transformation of financial markets through Hig
 
 --- 
 
-**Misc - [Chikara no Chikara: Mystical Battle Royale](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=Game%20Design%20Report.-,docx,-LICENSE)**
+**Misc: [Chikara no Chikara: Mystical Battle Royale](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=Game%20Design%20Report.-,docx,-LICENSE)**
 
 **Grade:** - 65%
 
