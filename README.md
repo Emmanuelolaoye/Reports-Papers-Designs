@@ -16,7 +16,7 @@ This Master's thesis by explores the creation of a cutting-edge trading system t
 
 ---
 
-**CE301 Capstone Project: [Visual Path-finding Visualiser]([link](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=CE301-,Capstone,-Project%20%2D%20Final%20Report))**
+**CE301 Capstone Project: [Visual Path-finding Visualiser](https://github.com/Emmanuelolaoye/Reports-Papers-Designs/edit/main/README.md#:~:text=CE301-,Capstone,-Project%20%2D%20Final%20Report)**
 
 **Grade:** - 74%
 
